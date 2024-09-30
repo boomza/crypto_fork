@@ -1,0 +1,16 @@
+F:\GitHub\crypto\Lib\Generator\obj\Debug\netstandard2.1\Generator.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\crypto\Lib\Generator\obj\Debug\netstandard2.1\Generator.AssemblyInfoInputs.cache
+F:\GitHub\crypto\Lib\Generator\obj\Debug\netstandard2.1\Generator.AssemblyInfo.cs
+F:\GitHub\crypto\Lib\Generator\obj\Debug\netstandard2.1\Generator.csproj.CoreCompileInputs.cache
+F:\GitHub\crypto\Lib\Generator\obj\Debug\netstandard2.1\Generator.sourcelink.json
+F:\GitHub\crypto\Lib\Generator\bin\Debug\netstandard2.1\Generator.deps.json
+F:\GitHub\crypto\Lib\Generator\bin\Debug\netstandard2.1\Generator.dll
+F:\GitHub\crypto\Lib\Generator\bin\Debug\netstandard2.1\Generator.pdb
+F:\GitHub\crypto\Lib\Generator\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+F:\GitHub\crypto\Lib\Generator\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+F:\GitHub\crypto\Lib\Generator\bin\Debug\netstandard2.1\UnityEngine.CoreModule.xml
+F:\GitHub\crypto\Lib\Generator\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.xml
+F:\GitHub\crypto\Lib\Generator\obj\Debug\netstandard2.1\Generator.csproj.AssemblyReference.cache
+F:\GitHub\crypto\Lib\Generator\obj\Debug\netstandard2.1\Generator.csproj.Up2Date
+F:\GitHub\crypto\Lib\Generator\obj\Debug\netstandard2.1\Generator.dll
+F:\GitHub\crypto\Lib\Generator\obj\Debug\netstandard2.1\Generator.pdb

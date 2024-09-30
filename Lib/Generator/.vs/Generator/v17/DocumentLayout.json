@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GitHub\\crypto\\Lib\\Generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CB41B2-B5FC-4354-AA9A-C60D87CD3032}|Generator.csproj|f:\\github\\crypto\\lib\\generator\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CB41B2-B5FC-4354-AA9A-C60D87CD3032}|Generator.csproj|solutionrelative:generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Generator.cs",
+              "DocumentMoniker": "F:\\GitHub\\crypto\\Lib\\Generator\\Generator.cs",
+              "RelativeDocumentMoniker": "Generator.cs",
+              "ToolTip": "F:\\GitHub\\crypto\\Lib\\Generator\\Generator.cs",
+              "RelativeToolTip": "Generator.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:27:59.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
