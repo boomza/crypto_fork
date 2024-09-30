@@ -28,7 +28,8 @@ public class SimRunner : MonoBehaviour {
     public void Next()
     {
         msgText.text = "Generation: " + ++generation;
-        Generator.Evolve(cells);
+        msgText.text = "Generation: " + Generator.Generator.Mult(10,100);
+        Generator.Generator.Evolve(cells);
     }
 
     public void Loop()
